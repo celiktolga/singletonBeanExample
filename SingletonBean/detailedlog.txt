@@ -1,0 +1,15 @@
+Eyl 30, 2020 10:01:28 PM org.springframework.context.support.ClassPathXmlApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7530d0a: display name [org.springframework.context.support.ClassPathXmlApplicationContext@7530d0a]; startup date [Wed Sep 30 22:01:28 EET 2020]; root of context hierarchy
+Eyl 30, 2020 10:01:29 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [Beans.xml]
+Eyl 30, 2020 10:01:29 PM org.springframework.context.support.ClassPathXmlApplicationContext obtainFreshBeanFactory
+INFO: Bean factory for application context [org.springframework.context.support.ClassPathXmlApplicationContext@7530d0a]: org.springframework.beans.factory.support.DefaultListableBeanFactory@5ecddf8f
+Eyl 30, 2020 10:01:29 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5ecddf8f: defining beans [employee]; root of factory hierarchy
+1 Tolga
+1 Tolga
+2 Tayfun
+Eyl 30, 2020 10:01:29 PM org.springframework.context.support.ClassPathXmlApplicationContext doClose
+INFO: Closing org.springframework.context.support.ClassPathXmlApplicationContext@7530d0a: display name [org.springframework.context.support.ClassPathXmlApplicationContext@7530d0a]; startup date [Wed Sep 30 22:01:28 EET 2020]; root of context hierarchy
+Eyl 30, 2020 10:01:29 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5ecddf8f: defining beans [employee]; root of factory hierarchy
